@@ -1,0 +1,74 @@
+[
+  {
+    "group": "G1",
+    "subgroup": "S1",
+    "item": "I1",
+    "cost": 10
+  },
+  {
+    "group": "G1",
+    "subgroup": "S2",
+    "item": "I2",
+    "cost": 11
+  },
+  {
+    "group": "G1",
+    "subgroup": "S1",
+    "item": "I3",
+    "cost": 12
+  },
+  {
+    "group": "G2",
+    "subgroup": "S2",
+    "item": "I4",
+    "cost": 13
+  },
+  {
+    "group": "G2",
+    "subgroup": "S1",
+    "item": "I5",
+    "cost": 14
+  },
+  {
+    "group": "G2",
+    "subgroup": "S2",
+    "item": "I6",
+    "cost": 15
+  },
+  {
+    "group": "G3",
+    "subgroup": "S1",
+    "item": "I7",
+    "cost": 16
+  },
+  {
+    "group": "G3",
+    "subgroup": "S2",
+    "item": "I8",
+    "cost": 17
+  },
+  {
+    "group": "G3",
+    "subgroup": "S1",
+    "item": "I9",
+    "cost": 18
+  },
+  {
+    "item": "I10",
+    "cost": 100
+  },
+  {
+    "item": "I11",
+    "cost": 101
+  },
+  {
+    "group": "G1",
+    "item": "I12",
+    "cost": 103
+  },
+  {
+    "group": "G4",
+    "item": "I13",
+    "cost": 104
+  }
+]
