@@ -6,4 +6,5 @@ exports.ErrorTypes = {
 exports.getCustomError = (errorType, errorMessage = errorType) => {
     const e = new Error(errorMessage)
     e.name = errorType
+    return e
 }
