@@ -1,0 +1,9 @@
+export default {
+  UI: {
+    ACTIVATE_TAB: "ACTIVATE_TAB"
+  },
+  TASKS: {
+    CREATE_TASK: "CREATE_TASK",
+    MARK_TASK_COMPLETE: "MARK_TASK_COMPLETE"
+  }
+};
