@@ -14,7 +14,7 @@ const SPageContainer = styled.div`
 const rootElement = document.getElementById("root");
 ReactDOM.render(
   <React.StrictMode>
-    <Provider store={store}>
+    <Provider store={store()}>
       <SPageContainer>
         <TasksPage />
       </SPageContainer>
